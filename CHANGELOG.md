@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/valverdealbo/async-middleware/compare/v1.0.3...v1.0.4) (2021-04-17)
+
+
+### Bug Fixes
+
+* update dependencies, update tools configurations ([758ca4c](https://github.com/valverdealbo/async-middleware/commit/758ca4c786d0c9306392862029230e3e443f348a))
+
 ## [1.0.3](https://github.com/valverdealbo/async-middleware/compare/v1.0.2...v1.0.3) (2021-02-19)
 
 

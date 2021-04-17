@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable @typescript-eslint/no-explicit-any,promise/no-callback-in-promise,promise/no-promise-in-callback */
 import type { Request, Response, NextFunction, RequestHandler, ErrorRequestHandler } from 'express';
 
 export interface AsyncRequestHandler {

@@ -1,6 +1,6 @@
 {
   "name": "@valbo/async-middleware",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Use async middlewares with express",
   "keywords": [
     "async",
